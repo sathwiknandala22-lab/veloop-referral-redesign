@@ -60,7 +60,7 @@ src/
 ## Installation & Setup
 
 # Clone the repository
-git clone https://github.com/Abhi0abhi0/veloop-referral-redesign.git
+git clone https://github.com/sathwiknandala22-lab/veloop-referral-redesign.git
 
 # Navigate into the project
 cd veloop-referral-redesign
@@ -82,5 +82,5 @@ npm run build
 
 ## Author
 
-**Abhishek Tomar**
+**Sathwik Nandala**
 Frontend Development Intern — VELoop Rewards
